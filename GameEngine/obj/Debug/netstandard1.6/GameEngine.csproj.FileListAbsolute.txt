@@ -1,0 +1,9 @@
+E:\Learning\xUnit\02\demos\before\01AddingTestProject\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+E:\Learning\xUnit\02\demos\before\01AddingTestProject\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+E:\Learning\xUnit\02\demos\before\01AddingTestProject\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+E:\Learning\xUnit\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.csprojAssemblyReference.cache
+E:\Learning\xUnit\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+E:\Learning\xUnit\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+E:\Learning\xUnit\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+E:\Learning\xUnit\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+E:\Learning\xUnit\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb
