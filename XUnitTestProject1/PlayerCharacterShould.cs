@@ -190,11 +190,18 @@ namespace GameEngine.Tests
         [Fact]
         public void RaisePropertyChangedEvent()
         {
-             
-
             Assert.PropertyChanged(_sut, "Health", () => _sut.TakeDamage(10));
         }
-
         
+
+        [Theory]
+        [MemberData(nameof(InternalHealthDamageTestData.TestData),
+         MemberType = typeof(InternalHealthDamageTestData))]
+
+        public void TakeDamage(int damage, int expectedHealth)
+        {
+            _sut.TakeDamage(damage);
+            Assert.Equal(expectedHealth, _sut.Health);
+        }
     }
 }

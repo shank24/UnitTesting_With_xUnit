@@ -96,3 +96,4 @@ E:\Learning\xUnit\02\demos\before\01AddingTestProject\XUnitTestProject1\obj\Debu
 E:\Learning\xUnit\02\demos\before\01AddingTestProject\XUnitTestProject1\obj\Debug\netcoreapp3.1\GameEngine.Tests.dll
 E:\Learning\xUnit\02\demos\before\01AddingTestProject\XUnitTestProject1\obj\Debug\netcoreapp3.1\GameEngine.Tests.pdb
 E:\Learning\xUnit\02\demos\before\01AddingTestProject\XUnitTestProject1\obj\Debug\netcoreapp3.1\GameEngine.Tests.genruntimeconfig.cache
+E:\Learning\xUnit\02\demos\before\01AddingTestProject\XUnitTestProject1\bin\Debug\netcoreapp3.1\TestData.csv
